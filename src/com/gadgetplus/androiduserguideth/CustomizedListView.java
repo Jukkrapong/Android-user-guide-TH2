@@ -16,7 +16,7 @@ import android.widget.ListView;
 
 public class CustomizedListView extends Activity {
 	// All static variables
-	static final String URL = "http://";
+	static final String URL = "http://gadgetpl.us/data/android-user-guid-video-list.xml";
 	// XML node keys
 	static final String KEY_SONG = "song"; // parent node
 	static final String KEY_ID = "id";
